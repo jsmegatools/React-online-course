@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "London",
+    "image": "london.jpg"
+  },
+  {
+    "id": 2,
+    "name": "New York",
+    "image": "new-york.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tokyo",
+    "image": "tokyo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Paris",
+    "image": "paris.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Singapore",
+    "image": "singapore.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Seoul",
+    "image": "seoul.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Amsterdam",
+    "image": "amsterdam.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Berlin",
+    "image": "berlin.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hong Kong",
+    "image": "hong-kong.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sydney",
+    "image": "sydney.jpg"
+  }
+]
